@@ -30,9 +30,9 @@ from telegram.ext import (
 )
 
 # ─── CONFIGURATION ────────────────────────────────────────────────────────────
-BOT_TOKEN   = "YOUR_BOT_TOKEN_HERE"          # 👈 Replace with your token
+BOT_TOKEN   = "8286074552:AAHAlhDxNOvBhRHHDYydd2knEU-4NOLLZ-E"          # 👈 Replace with your token
 CHANNEL_URL = "https://t.me/NexAIStore"      # 👈 Your channel link
-ADMIN_IDS   = [123456789]                    # 👈 Your Telegram user ID(s)
+ADMIN_IDS   = [7095427784]                    # 👈 Your Telegram user ID(s)
 
 # ─── PRODUCT CATALOG ──────────────────────────────────────────────────────────
 # Format: "product_id": { name, price, stock, description, delivery }
