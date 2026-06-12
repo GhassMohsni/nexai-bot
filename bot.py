@@ -7,9 +7,9 @@ from telegram.ext import (
 )
 
 # ─── CONFIGURATION ────────────────────────────────────────────────────────────
-BOT_TOKEN   = os.environ.get("BOT_TOKEN")
+BOT_TOKEN   = 8286074552:AAGE7cUBlh519ztYCI5qu-yY9ghKoB38Jps
 CHANNEL_URL = "https://t.me/NexAIStore"
-ADMIN_IDS   = [int(os.environ.get("ADMIN_ID", "0"))]
+ADMIN_IDS   = 7095427784
 
 # ─── PRODUCT CATALOG ──────────────────────────────────────────────────────────
 PRODUCTS = {
