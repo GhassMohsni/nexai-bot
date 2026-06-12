@@ -31,9 +31,9 @@ from telegram.ext import (
 
 # ─── CONFIGURATION ────────────────────────────────────────────────────────────
 
-CHANNEL_URL = "https://t.me/NexAIStore"      # 👈 Your channel link
 import os
 BOT_TOKEN   = os.environ.get("BOT_TOKEN")
+CHANNEL_URL = "https://t.me/NexAIStore"
 ADMIN_IDS   = [int(os.environ.get("ADMIN_ID", "0"))]
 
 # ─── PRODUCT CATALOG ──────────────────────────────────────────────────────────
